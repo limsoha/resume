@@ -82,7 +82,7 @@ Tong Pay는 T world global에서 개발한 Tong Coin으로 전송, 결제 및 �
 
 #### Android
 
-<img src ="https://meeta.io:3000/static/user/fgorbst330k.jpg" width="200">  <img src ="https://meeta.io:3000/static/user/0j4x5vp1fn8c.jpg" width="200">  <img src ="https://meeta.io:3000/static/user/eqgpfzkh515.jpg" width="200">  <img src ="https://meeta.io:3000/static/user/sy6xynigg7.jpg" width="200">   <img src ="https://user-images.githubusercontent.com/48788456/73923236-dd095400-490d-11ea-823b-585a8fddd2c8.png" width="200">   <img src ="https://user-images.githubusercontent.com/48788456/73923124-b1866980-490d-11ea-9e4a-0c30a059e459.png" width="200">   <img src ="https://user-images.githubusercontent.com/48788456/73923172-c236df80-490d-11ea-8fb9-d4efc8b01e62.png" width="200">   
+<img src ="https://user-images.githubusercontent.com/48788456/74696541-342af500-523b-11ea-801b-e2b896742191.jpg" width="200">  <img src ="https://user-images.githubusercontent.com/48788456/74696549-38571280-523b-11ea-9709-67d8305ed731.jpg" width="200">  <img src ="https://user-images.githubusercontent.com/48788456/74696560-4016b700-523b-11ea-91b0-cbfabae33d43.jpg" width="200">  <img src ="https://user-images.githubusercontent.com/48788456/74696571-4ad14c00-523b-11ea-87ad-23e2dcb929ef.jpg" width="200">   <img src ="https://user-images.githubusercontent.com/48788456/73923236-dd095400-490d-11ea-823b-585a8fddd2c8.png" width="200">   <img src ="https://user-images.githubusercontent.com/48788456/73923124-b1866980-490d-11ea-9e4a-0c30a059e459.png" width="200">   <img src ="https://user-images.githubusercontent.com/48788456/73923172-c236df80-490d-11ea-8fb9-d4efc8b01e62.png" width="200">   
 
 - 개발환경 : MacOS, Android Studio, Zeplin
 - 사용기술 : Android, Kotlin, xml
