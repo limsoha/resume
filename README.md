@@ -73,6 +73,70 @@ Shrp Coin 지갑 앱
 - 아키텍처 : MVP
 - Play Store(https://play.google.com/store/apps/details?id=com.tworldglobal.sharpcoin)
 
+### 소비연금제 협동조합
+
+<img src ="https://user-images.githubusercontent.com/48788456/75009840-fb02b700-54be-11ea-8e68-cadf786517c1.png" width="250">  <img src ="https://user-images.githubusercontent.com/48788456/75009824-f3431280-54be-11ea-8b83-883a4deacece.png" width="250">  
+
+소비연금제 협동조합 쇼핑몰 하이브리드 앱
+
+- 소속 : 티월드글로벌
+- 역할 : Android 하이브리드 앱 개발
+- 개발기간 : 2019.07.10 ~ 2019.08.20
+- 개발환경 : MacOS, Android Studio, Zeplin
+- 사용기술 : Android, Kotlin, xml
+- 아키텍처 : MVP
+- Play Store(https://play.google.com/store/apps/details?id=com.tworldglobal.twomart)
+
+### 1in2
+
+<img src ="https://user-images.githubusercontent.com/48788456/75010703-2686a100-54c1-11ea-8027-03ca0b1073c8.png" width="250">  <img src ="https://user-images.githubusercontent.com/48788456/75010717-30100900-54c1-11ea-90ab-4874a4919eea.png" width="250">  <img src ="https://user-images.githubusercontent.com/48788456/75010726-343c2680-54c1-11ea-9dc9-f7e3c65ee46b.png" width="250">  
+
+1in2 쇼핑몰 하이브리드 및 QR 적립기능이 있는 앱
+
+- 소속 : 원인투 (티월드글로벌 외주)
+- 역할 : Android, iOS 앱 개발
+
+#### Android
+
+- 개발기간 : 2019.03.21 ~ 2019.07.11
+- 개발환경 : MacOS, Android Studio, Zeplin
+- 사용기술 : Android, Kotlin, xml, Room
+- 아키텍처 : MVP
+- Play Store(https://play.google.com/store/apps/details?id=com.tfriend.oneintwo)
+
+#### iOS
+
+- 개발기간 : 2019.03.21 ~ 2019.07.11
+- 개발환경 : MacOS, XCode, Zeplin
+- 사용기술 : iOS, Swift
+- 아키텍처 : VIPER
+- App Store(https://apps.apple.com/kr/app/1in2-%EC%9B%90%EC%9D%B8%ED%88%AC/id1468246386)
+
+### TK Pay
+
+TK Mall 에서 사용하는 TK Pay 지갑 앱
+
+- 소속 : 티월드글로벌
+- 역할 : Android, iOS 앱 개발
+
+#### Android
+
+<img src ="https://user-images.githubusercontent.com/48788456/75009148-4a47e800-54bd-11ea-9e82-a93e86c7c856.png" width="200">  <img src ="https://user-images.githubusercontent.com/48788456/75009102-24224800-54bd-11ea-97b8-7998d15d1dbf.png" width="200">  <img src ="https://user-images.githubusercontent.com/48788456/75009113-297f9280-54bd-11ea-80e1-a04ded71fe12.png" width="200">  <img src ="https://user-images.githubusercontent.com/48788456/75009110-28e6fc00-54bd-11ea-9c51-90de83bcfd37.png" width="200">  <img src ="https://user-images.githubusercontent.com/48788456/75009111-297f9280-54bd-11ea-973a-66d1e7bb1c78.png" width="200">  <img src ="https://user-images.githubusercontent.com/48788456/75009114-2a182900-54bd-11ea-8c35-e4abb4f82f75.png" width="200">  <img src ="https://user-images.githubusercontent.com/48788456/75009109-284e6580-54bd-11ea-85c6-4cb4de3a0292.png" width="200">  
+
+- 개발환경 : MacOS, Android Studio, Zeplin
+- 사용기술 : Android, Kotlin, xml
+- 아키텍처 : MVP
+- Play Store(https://play.google.com/store/apps/details?id=com.tworldglobal.tkpay)
+
+#### iOS
+
+<img src ="https://user-images.githubusercontent.com/48788456/75009335-c4786c80-54bd-11ea-9a56-5d779cec6e93.png" width="200">  <img src ="https://user-images.githubusercontent.com/48788456/75009324-c04c4f00-54bd-11ea-903b-11ac7061b350.png" width="200">  <img src ="https://user-images.githubusercontent.com/48788456/75009337-c5110300-54bd-11ea-9550-d8d5775c9181.png" width="200">  <img src ="https://user-images.githubusercontent.com/48788456/75009338-c5a99980-54bd-11ea-9090-a411092f8ae7.png" width="200">  
+
+- 개발환경 : MacOS, XCode, Zeplin
+- 사용기술 : iOS, Swift
+- 아키텍처 : VIPER
+- App Store(https://apps.apple.com/us/app/tk-pay/id1470201264)
+
 ### Tong Pay
 
 Tong Pay는 T world global에서 개발한 Tong Coin으로 전송, 결제 및 내역 조회를 할 수 있는 앱입니다.
