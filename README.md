@@ -53,7 +53,7 @@ HuChain 사에서 사용할 지갑 및 회원정보 관리 앱
 
 - 소속 : 티월드글로벌
 - 역할 : Android 앱 개발
-- 개발기간 : 2019.11.21 ~ 2020.12.02
+- 개발기간 : 2019.11.21 ~ 2019.12.02
 - 개발환경 : MacOS, Android Studio, Zeplin
 - 사용기술 : Android, Kotlin, xml
 - 아키텍처 : MVP
