@@ -67,7 +67,7 @@ Shrp Coin 지갑 앱
 
 - 소속 : 티월드글로벌
 - 역할 : Android 앱 개발
-- 개발기간 : 2019.10.08 ~ 2020.10.17
+- 개발기간 : 2019.10.08 ~ 2019.10.17
 - 개발환경 : MacOS, Android Studio, Zeplin
 - 사용기술 : Android, Kotlin, xml
 - 아키텍처 : MVP
