@@ -121,7 +121,7 @@ TK Mall 에서 사용하는 TK Pay 지갑 앱
 
 #### Android
 
-<img src ="https://user-images.githubusercontent.com/48788456/75009148-4a47e800-54bd-11ea-9e82-a93e86c7c856.png" width="200">  <img src ="https://user-images.githubusercontent.com/48788456/75009102-24224800-54bd-11ea-97b8-7998d15d1dbf.png" width="200">  <img src ="https://user-images.githubusercontent.com/48788456/75009113-297f9280-54bd-11ea-80e1-a04ded71fe12.png" width="200">  <img src ="https://user-images.githubusercontent.com/48788456/75009110-28e6fc00-54bd-11ea-9c51-90de83bcfd37.png" width="200">  <img src ="https://user-images.githubusercontent.com/48788456/75009111-297f9280-54bd-11ea-973a-66d1e7bb1c78.png" width="200">  <img src ="https://user-images.githubusercontent.com/48788456/75009114-2a182900-54bd-11ea-8c35-e4abb4f82f75.png" width="200">  <img src ="https://user-images.githubusercontent.com/48788456/75009109-284e6580-54bd-11ea-85c6-4cb4de3a0292.png" width="200">  
+<img src ="https://user-images.githubusercontent.com/48788456/75009148-4a47e800-54bd-11ea-9e82-a93e86c7c856.png" width="200">  <img src ="https://user-images.githubusercontent.com/48788456/80440400-ac045280-8943-11ea-9c06-fe9a112bf0d7.png" width="200">  <img src ="https://user-images.githubusercontent.com/48788456/75009113-297f9280-54bd-11ea-80e1-a04ded71fe12.png" width="200">  <img src ="https://user-images.githubusercontent.com/48788456/75009110-28e6fc00-54bd-11ea-9c51-90de83bcfd37.png" width="200">  <img src ="https://user-images.githubusercontent.com/48788456/75009111-297f9280-54bd-11ea-973a-66d1e7bb1c78.png" width="200">  <img src ="https://user-images.githubusercontent.com/48788456/75009114-2a182900-54bd-11ea-8c35-e4abb4f82f75.png" width="200">  <img src ="https://user-images.githubusercontent.com/48788456/75009109-284e6580-54bd-11ea-85c6-4cb4de3a0292.png" width="200">  
 
 - 개발환경 : MacOS, Android Studio, Zeplin
 - 사용기술 : Android, Kotlin, xml
@@ -130,7 +130,7 @@ TK Mall 에서 사용하는 TK Pay 지갑 앱
 
 #### iOS
 
-<img src ="https://user-images.githubusercontent.com/48788456/75009335-c4786c80-54bd-11ea-9a56-5d779cec6e93.png" width="200">  <img src ="https://user-images.githubusercontent.com/48788456/75009324-c04c4f00-54bd-11ea-903b-11ac7061b350.png" width="200">  <img src ="https://user-images.githubusercontent.com/48788456/75009337-c5110300-54bd-11ea-9550-d8d5775c9181.png" width="200">  <img src ="https://user-images.githubusercontent.com/48788456/75009338-c5a99980-54bd-11ea-9090-a411092f8ae7.png" width="200">  
+<img src ="https://user-images.githubusercontent.com/48788456/75009335-c4786c80-54bd-11ea-9a56-5d779cec6e93.png" width="200">  <img src ="https://user-images.githubusercontent.com/48788456/80440400-ac045280-8943-11ea-9c06-fe9a112bf0d7.png" width="200">  <img src ="https://user-images.githubusercontent.com/48788456/75009337-c5110300-54bd-11ea-9550-d8d5775c9181.png" width="200">  <img src ="https://user-images.githubusercontent.com/48788456/75009338-c5a99980-54bd-11ea-9090-a411092f8ae7.png" width="200">  
 
 - 개발환경 : MacOS, XCode, Zeplin
 - 사용기술 : iOS, Swift
