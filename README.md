@@ -10,13 +10,36 @@ E-mail: soha0710@naver.com
 
 ## 경력
 
+[오케이인베스트먼트파트너스](http://okfngroup.com)
+  - 계장 2020.06.01 ~
+
 [티월드글로벌](http://t-chain.io/)
-  - 주임 2018.11.01 ~
+  - 주임 2018.11.01 ~ 2020.05.29
 
 [이엠디넷](http://www.emdinet.com/)
   - 사원 2015.10.01 ~ 2018.09.20
   
 ## 회사프로젝트
+
+### 올리고
+
+P2P 투자, e금・e은 투자 등 투자와 송금서비스 및 이벤트를 통한 포인트를 제공하는 재테크 앱
+
+- 소속 : 오케이인베스트먼트파트너스
+- 역할 : Android 앱 신서비스 대응 및 legacy 개선
+ + MVC -> MVVM
+ + Java -> Kotlin
+ + NavigationView -> BottomNavigationView
+ + library 최신 적용 (androix, firebase crashlytics 등)
+ 
+#### Android
+
+<img src ="https://user-images.githubusercontent.com/48788456/114798209-cee77b00-9dcf-11eb-910e-b63dfa98270d.png" width="250">  <img src ="https://user-images.githubusercontent.com/48788456/114798219-d27b0200-9dcf-11eb-9a10-2b4d45ecc715.png" width="250">  <img src ="https://user-images.githubusercontent.com/48788456/114798221-d4dd5c00-9dcf-11eb-87e3-a3340388042d.png" width="250">  <img src ="https://user-images.githubusercontent.com/48788456/114798224-d60e8900-9dcf-11eb-8f00-bdaf3f336b36.png" width="250">  <img src ="https://user-images.githubusercontent.com/48788456/114798226-d73fb600-9dcf-11eb-8bcd-14798e915ddf.png" width="250">  <img src ="https://user-images.githubusercontent.com/48788456/114798227-d7d84c80-9dcf-11eb-8d33-775a04520b56.png" width="250">
+
+- 개발환경 : MacOS, Android Studio, Zeplin
+- 사용기술 : Android, Kotlin, Java, xml, RxKotlin, RxAndroid
+- 아키텍처 : MVVM, MVC
+- Play Store(https://play.google.com/store/apps/details?id=com.apro.cereal)
 
 ### HuChain
 
