@@ -23,7 +23,7 @@ E-mail: soha0710@naver.com
 
 ### 올리고
 
-P2P 투자, e금・e은 투자 등 투자와 송금서비스 및 이벤트를 통한 포인트를 제공하는 재테크 앱
+P2P 투자, e금・e은 투자 등 투자와 송금서비스 및 이벤트를 통한 포인트를 제공하는 재테크 서비스
 
 - 소속 : 오케이인베스트먼트파트너스
 - 역할 : Android 앱 신서비스 대응 및 legacy 개선
@@ -40,6 +40,11 @@ P2P 투자, e금・e은 투자 등 투자와 송금서비스 및 이벤트를 �
 - 사용기술 : Android, Kotlin, Java, xml, RxKotlin, RxAndroid
 - 아키텍처 : MVVM, MVC
 - Play Store(https://play.google.com/store/apps/details?id=com.apro.cereal)
+
+#### Web (서비스앱/괸라지페이지)
+
+- 개발환경 : Window OS, IntelliJ, DBeaver
+- 사용기술 : Spring Famework, Java, javascript, MySql
 
 ### HuChain
 
