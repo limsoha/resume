@@ -4,22 +4,39 @@
 
 Github: https://github.com/limsoha
 
-Facebook: https://www.facebook.com/limsoha7
+E-mail: soha0710@gmail.com
 
-E-mail: soha0710@naver.com
+링크드인: https://www.linkedin.com/in/%EC%86%8C%ED%95%98-%EC%9E%84-2077921a4/
 
 ## 경력
+[아데나소프트웨어](https://www.adenasoft.com/ko-KR/)
+  - 팀원 2020.12.20 ~
 
 [오케이인베스트먼트파트너스](http://okfngroup.com)
-  - 계장 2020.06.01 ~
+  - 계장 2020.06.01 ~ 2020.12.01
 
 [티월드글로벌](http://t-chain.io/)
   - 주임 2018.11.01 ~ 2020.05.29
 
 [이엠디넷](http://www.emdinet.com/)
   - 사원 2015.10.01 ~ 2018.09.20
+
+## 기술 스택
+- 언어: Kotlin
+- 아키텍처: MVVM, MVI, Clean Architecture
+- 프레임워크/라이브러리: Coroutines, Flow, Ktor, Hilt, Jetpack (Compose, Paging3, Room, Navigation), Coil, Glide, etc.
+- CI/CD: Firebase App Distribution, Fastlane
+- 툴: Android Studio, Figma, Height
+- 기타: Firebase, REST API
   
 ## 회사프로젝트
+
+### 코인니스
+코인 관련 속보, 마켓 정보 등을 제공하는 커뮤니티 서비스
+
+- 소속 : 아데나소프트웨어
+- 기간 : 2021.12 ~ 
+- 역할 : Android 앱 설계 및 신기능 개발
 
 ### 올리고
 
