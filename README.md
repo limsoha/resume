@@ -9,6 +9,10 @@ E-mail: soha0710@gmail.com
 링크드인: https://www.linkedin.com/in/%EC%86%8C%ED%95%98-%EC%9E%84-2077921a4/
 
 ## 경력
+10년 차 안드로이드 앱 개발자. Kotlin 기반으로 앱 개발 경험 보유.
+Jetpack Compose, Navigation Component, Hilt 등을 활용해 모듈화 및 아키텍처 개선에 기여.
+MAU 50만 이상 서비스의 안정적인 운영을 위한 유지보수, 코드 리팩터링 및 신규 기능 런칭 경험.
+
 [아데나소프트웨어](https://www.adenasoft.com/ko-KR/)
   - 팀원 2020.12.20 ~
 
@@ -36,7 +40,22 @@ E-mail: soha0710@gmail.com
 
 - 소속 : 아데나소프트웨어
 - 기간 : 2021.12 ~ 
-- 역할 : Android 앱 설계 및 신기능 개발
+- 역할 : Android 앱 설계 및 신기능 개발 리드
+- 기술 스택 : Kotlin, Compose, Hilt, Ktor, Coroutine, Flow, Firebase 등
+- 주요 업무 및 성과:
+    - 입사 당시 설치 수 5만 명 규모의 앱을 안정적인 운영 및 기능 확장을 통해 현재 18만 명 이상으로 성장하는 과정에 기여
+    - 유지보수 및 리팩터링 주도: 코드 품질 개선과 구조 고도화를 통해 장기적인 유지보수 비용 절감 및 개발 효율성 확보
+    - 신규 기능 런칭
+      - 소셜 로그인(카카오/네이버/구글) 추가: 가입 플로우 다양화 및 신규 유입 확대 지원
+      - 푸시 알림 고도화: 기존에 분리되어 있던 푸시 페이로드 처리 방식과 딥링크 처리 방식을 통합하여 중복 코드 제거, 일관성 확보, 소스 코드 관리 및 유지보수 효율성 향상
+      - 다크 모드 지원: 사용자 경험 개선 및 최신 OS 트렌드 반영
+      - 다국어 앱 지원(Multi-language) → 글로벌 사용자 접근성 확대 및 앱 확장성 강화
+    - 핵심 리팩터링 및 아키텍처 개선
+        - UI: 기존 XML 화면을 Jetpack Compose로 단계적 전환(약 70%), 개발 생산성 향상 및 UI 유지보수 비용 절감
+        - DI: Koin → Hilt 마이그레이션으로 공식 지원 기반 DI 체계 확립, 테스트 및 의존성 관리 용이성 확보
+        - 아키텍처: Clean Architecture 적용, 관심사 분리 및 모듈 간 의존성 최소화로 확장성과 안정성 강화
+    - 배포 프로세스 자동화: Fastlane을 활용해 Firebase App Distribution(Staging)과 Play Store(Prod) 배포 자동화, 배포 시 Slack 알림 및 Git Tag 생성 연동으로 배포 효율성 향상
+    - Play Store(https://play.google.com/store/apps/details?id=live.coinness&hl=ko)
 
 ### 올리고
 
