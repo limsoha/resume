@@ -9,9 +9,9 @@ E-mail: soha0710@gmail.com
 링크드인: https://www.linkedin.com/in/%EC%86%8C%ED%95%98-%EC%9E%84-2077921a4/
 
 ## 경력
-10년 차 안드로이드 앱 개발자. Kotlin 기반으로 앱 개발 경험 보유.
-Jetpack Compose, Navigation Component, Hilt 등을 활용해 모듈화 및 아키텍처 개선에 기여.
-MAU 50만 이상 서비스의 안정적인 운영을 위한 유지보수, 코드 리팩터링 및 신규 기능 런칭 경험.
+10년 차 안드로이드 앱 개발자. Kotlin 기반으로 앱 개발 경험 보유.  
+Jetpack Compose, Navigation Component, Hilt 등을 활용해 모듈화 및 아키텍처 개선에 기여.  
+MAU 90만 이상 서비스의 안정적인 운영을 위한 유지보수, 코드 리팩터링 및 신규 기능 런칭 경험.
 
 [아데나소프트웨어](https://www.adenasoft.com/ko-KR/)
   - 팀원 2020.12.20 ~
