@@ -56,6 +56,16 @@ MAU 90만 이상 서비스의 안정적인 운영을 위한 유지보수, 코드
         - 아키텍처: Clean Architecture 적용, 관심사 분리 및 모듈 간 의존성 최소화로 확장성과 안정성 강화
     - 배포 프로세스 자동화: Fastlane을 활용해 Firebase App Distribution(Staging)과 Play Store(Prod) 배포 자동화, 배포 시 Slack 알림 및 Git Tag 생성 연동으로 배포 효율성 향상
     - Play Store(https://play.google.com/store/apps/details?id=live.coinness&hl=ko)
+  
+<img width="250" alt="GooglePlay Android 9" src="https://github.com/user-attachments/assets/0ebd2bd9-b995-4e89-811f-ed5e5f22ffcb" />
+<img width="250" alt="GooglePlay Android 11" src="https://github.com/user-attachments/assets/4dc41757-5fc7-413d-8840-3c2b45de036c" />
+<img width="250" alt="GooglePlay Android 12" src="https://github.com/user-attachments/assets/6e4b3fc3-bdf9-41f6-904c-b94b89316e58" />
+<img width="250" alt="GooglePlay Android 13" src="https://github.com/user-attachments/assets/33ecc83f-18f9-4312-8405-d9e59ca153a3" />
+<img width="250" alt="GooglePlay Android 14" src="https://github.com/user-attachments/assets/34f5b753-a523-4822-9cbf-eb683dd9a68a" />
+<img width="250" alt="GooglePlay Android 15" src="https://github.com/user-attachments/assets/71f9c1b1-d054-461b-bacf-f72c72dd3b46" />
+<img width="250" alt="GooglePlay Android 16" src="https://github.com/user-attachments/assets/b935fdc1-3241-4ad5-987d-0835655f24ef" />
+<img width="250" alt="GooglePlay Android 24" src="https://github.com/user-attachments/assets/5915d790-b37c-4a07-abad-c936ce38f1af" />
+
 
 ### 올리고
 
