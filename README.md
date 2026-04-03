@@ -28,7 +28,7 @@ MAU 90만 이상 서비스의 안정적인 운영을 위한 유지보수, 코드
 ## 기술 스택
 - 언어: Kotlin
 - 아키텍처: MVVM, MVI, Clean Architecture
-- 프레임워크/라이브러리: Coroutines, Flow, Ktor, Hilt, Jetpack (Compose, Paging3, Room, Navigation), Coil, Glide, etc.
+- 프레임워크/라이브러리: CMP, Coroutines, Flow, Ktor, Hilt, Koin, Jetpack (Compose, Paging3, Room, Navigation), Coil, Glide, etc.
 - CI/CD: Firebase App Distribution, Fastlane
 - 툴: Android Studio, Figma, Height
 - 기타: Firebase, REST API
